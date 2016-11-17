@@ -17,7 +17,7 @@ US, UK, マレーシア, ベトナム その他APACなど、英語を中心に�
 <br>
 - - - - - - - -
 ### VISION
-**自由闊達にして愉快なる創造集団**
+**自由闊達にして愉快なる創造集団**<br>
  Professionals about co-creation  
 ```
 テクノロジーであっと驚かせたい。デザインでもっと世の中を楽しいものにしていきたい。
@@ -30,7 +30,7 @@ US, UK, マレーシア, ベトナム その他APACなど、英語を中心に�
 ```
 - - - - - - - -
 ### OUR WORKS
-**タイレルシステムは、お客様のビジネスを開発しています**
+**タイレルシステムは、お客様のビジネスを開発しています**<br>
  Develop For Customer Success 
 ```
 弊社では、お客様のご要望にあわせ、オーダーメイドなシステムを開発しています。
@@ -47,7 +47,7 @@ US, UK, マレーシア, ベトナム その他APACなど、英語を中心に�
 ```
 - - - - - - - -
 ### DEVELOPMENT METHOD
-**常にチームとして考え、チームとして行動する**
+**常にチームとして考え、チームとして行動する**<br>
  One Stop Solution from Professional team
 ```
 お客様の要望に柔軟に対応する為に、これまでのウォーターフォール型のプロジェクト進行に加え、
@@ -67,7 +67,7 @@ Jenkins＋Unittest によるCI（継続的インテグレーション）の実�
 ```
 - - - - - - - -
 ### KEYWORD OF TYRELLSYSTEMS
-**日々進化する最新の合理性を取り入れ、常に最適な成果物を生産し提供する**
+**日々進化する最新の合理性を取り入れ、常に最適な成果物を生産し提供する**<br>
 You’re not afraid to take risks and propose and try out new ways
 ```
 ■ 開発言語：
@@ -92,7 +92,7 @@ Chef、Jenkins＋UnitTest、Capistrano
 - - - - - - - -
 
 ### ENTRY
-**Githubエントリー**
+**Githubエントリー**<br>
 Join Our Team!
 
 [エントリーはこちら>](http://www.tyrellsys.com/github_recruit/)
