@@ -18,7 +18,7 @@ US, UK, マレーシア, ベトナム その他APACなど、英語を中心に�
 <br>
 - - - - - - - -
 ### VISION
-**自由闊達にして愉快なる創造集団**<br>
+**自由闊達にして愉快なる創造集団 **<br>
 Professionals about co-creation
 ```
 テクノロジーであっと驚かせたい。デザインでもっと世の中を楽しいものにしていきたい。
@@ -104,4 +104,4 @@ Join Our Team!
 書類選考をパスし、一次面談へ進んでいただきます。
 
 
-合言葉：Good Team, ∞ Creativity.
+合言葉：Good Team, &infin; Creativity.
