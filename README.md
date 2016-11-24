@@ -67,30 +67,6 @@ Jenkins＋Unittest によるCI（継続的インテグレーション）の実�
 開発効率の促進並びに品質向上を目指しています。
 ```
 - - - - - - - -
-### KEYWORD OF US
-**日々進化する最新の合理性を取り入れ、常に最適な成果物を生産し提供する**<br>
-Try Out New Ways to Keep Us More Rational and Be The One For "Kaizen".
-```
-■ 開発言語：
-PHP、JavaScript、HTML5+CSS3、SQL、Ruby
-
-■ フレームワーク：
-CakePHP、iOS SDK、Android SDK、jQuery
-
-■ データベース：
-MySQL（Amazon Aurora） etc....
-
-■ プロジェクト管理：
-Redmine、Backlog、Clarizen
-
-■ サーバ環境：
-Linux（Cent OS）、Apache、Memcached、Amazon Web Service
-
-■ DevOps ：
-Github、Elastic Beanstalk、OpsWorks
-Chef、Jenkins＋UnitTest、Capistrano
-```
-- - - - - - - -
 
 ### ENTRY
 **Githubエントリー**<br>
